@@ -1,0 +1,34 @@
+[
+  {"year": "2022",
+    "person":{
+     "first":"John",
+     "last":"Doe",
+     "webpage":"url",
+     "email":"xx@gmail.com",
+     "institute":"xxx",
+     "graduate-date":"xxx",
+     "advisor":"xxx",
+     "advisor-email":"xxx",
+     "graduate-date":"xxx",
+     "Title":"xxx for x",
+     "thesis-link":"xxx",
+     "abstract":"This is the abstract"
+    }
+  }, 
+  {"year": "2021",
+    "person":{
+     "first":"John2",
+     "last":"Doe",
+     "webpage":"url",
+     "email":"xx@gmail.com",
+     "institute":"xxx",
+     "graduate-date":"xxx",
+     "advisor":"xxx",
+     "advisor-email":"xxx",
+     "graduate-date":"xxx",
+     "Title":"xxx for x",
+     "thesis-link":"xxx",
+     "abstract":"This is the abstract"
+    }
+  }
+]
