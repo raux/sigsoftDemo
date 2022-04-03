@@ -1,5 +1,9 @@
 [
-  {"name": "abc"}, 
+  {"name": "abc",
+    "person":{
+      "url": "me"
+    },
+  "fname": "xyz"}, 
   {"name": "xyz"}, 
   {"name": "zya"}
 ] 
