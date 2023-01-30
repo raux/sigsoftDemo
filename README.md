@@ -1,3 +1,1 @@
-# sigsoftDemo
-
-Prototype for the new SIGSOFT website. 
+# sigsoft-Uni
